@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1434601732 source:c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\estatisticas.c
+	"Estatisticas.h"
+
+1434591439 c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\estatisticas.h
+	"Fifo.h"
+	"Lista.h"
+	"Menus.h"
+	<math.h>
+	<time.h>
+	"Print.h"
+
+1434513822 c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\fifo.h
+	<stdio.h>
+	<time.h>
+	"No.h"
+	"Print.h"
+	"Menus.h"
+
+1434513023 c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\no.h
+	"Item.h"
+
+1434514217 c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\item.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	"Print.h"
+	"Menus.h"
+
+1434553829 c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\print.h
+	<math.h>
+	<time.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	"Define.h"
+
+1434603427 c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\define.h
+
+1434514776 c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\menus.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"Print.h"
+
+1434513023 c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\lista.h
+	<stdio.h>
+	<stdlib.h>
+	"No.h"
+	"Item.h"
+	"Print.h"
+
+1434593275 source:c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\fifo.c
+	"Fifo.h"
+
+1434595335 source:c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\funcionario.c
+	"Funcionario.h"
+
+1434554218 c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\funcionario.h
+	"Lista.h"
+	"Fifo.h"
+	"Estatisticas.h"
+	"Menus.h"
+	"Ordenacao.h"
+	"Print.h"
+	"Define.h"
+
+1434408821 c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\ordenacao.h
+	"Lista.h"
+	"Item.h"
+	"Print.h"
+
+1434565571 source:c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\gestor.c
+	"Gestor.h"
+
+1434591461 c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\gestor.h
+	"Lista.h"
+	"Fifo.h"
+	"Estatisticas.h"
+	"Menus.h"
+	"Ordenacao.h"
+	"Print.h"
+	"Ficheiros.h"
+
+1434564508 c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\ficheiros.h
+	<time.h>
+	"Lista.h"
+	"Estatisticas.h"
+	"Define.h"
+
+1434589091 source:c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\item.c
+	"Item.h"
+
+1434602242 source:c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\lista.c
+	"Lista.h"
+
+1434591813 source:c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\main.c
+	"Gestor.h"
+	"Fifo.h"
+	"Lista.h"
+
+1434591344 source:c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\menus.c
+	"Print.h"
+
+1434408287 source:c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\no.c
+	"No.h"
+
+1434604222 source:c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\ordenacao.c
+	"Ordenacao.h"
+	"Define.h"
+
+1434605690 source:c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\print.c
+	"Print.h"
+
+1434605703 source:c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\utilizador.c
+	"Utilizador.h"
+
+1434408821 c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\utilizador.h
+	"Lista.h"
+	"Fifo.h"
+	"Estatisticas.h"
+	"Print.h"
+	"Ordenacao.h"
+
+1434564494 source:c:\users\fred\desktop\projetoaed\projetoaed\trabalhoaed\ficheiros.c
+	"Ficheiros.h"
+
